@@ -1,0 +1,7 @@
+.btn1:hover {
+    transform: rotate(180deg); 
+    color: yellow;
+    cursor: pointer;
+};
+
+ 

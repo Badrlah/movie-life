@@ -1,0 +1,13 @@
+.content{
+    display: flex;
+}
+.info{
+    margin-left: 20px;
+}
+.poster{
+    margin-left: 20px;
+    width: 460px;
+}
+.titre{
+    margin: 10px;
+}

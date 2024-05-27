@@ -1,0 +1,12 @@
+
+
+#pt{
+    color: rgba(0, 0, 0, 0.484);
+    margin: 100px 270px ;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    
+    margin-bottom: 10px;
+}

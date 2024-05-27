@@ -1,0 +1,19 @@
+/* styles.css */
+.movie-details {
+  margin-top: 10px;
+}
+
+.imdb-rating {
+  display: flex;
+  align-items: center;
+  color: #f5c518; /* Couleur jaune similaire à IMDb */
+  font-size: 24px;
+}
+
+.star-icon {
+  margin-right: 5px;
+  color: #f5c518; /* Marge à droite de l'icône */
+}
+
+
+
