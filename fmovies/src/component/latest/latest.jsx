@@ -14,9 +14,7 @@ import { faStar as fasStar } from "@fortawesome/free-solid-svg-icons";
 import { faHeart } from '@fortawesome/free-solid-svg-icons';
 import './latest.css';
 import { Pagination } from 'react-bootstrap';
-
 import useDebounceHook from './useDebounceHook[1]';
-
 
 export default function LatestMovies() {
   const { authenticated ,user,setUser} = useContext(authContext);
